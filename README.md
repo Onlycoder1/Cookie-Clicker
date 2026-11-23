@@ -1,6 +1,6 @@
 # Cookie Clicker
 This is the simple cookie clicker that I made. Keep in mind this is my first Pygame project and could be improved further.
-![Screenshot of my cookie clicker]("Screenshot 2026-11-23 at 9.22.59 AM.png") 
+![Screenshot of my cookie clicker](Screenshot 2026-11-23 at 9.22.59 AM.png) 
 Here is what my game looks like.
 
 ## Game Link
